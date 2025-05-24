@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi, I'm Neetika | Full Stack Developer" />
+  <h1>Hi, I'm Neetika | Full Stack Developer</h1>
 </p>
 
 <br />
