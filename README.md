@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi, I'm Neetika | Full Stack Developer" src="https://github.com/neetika111/neetika111/blob/main/assets/github-header.png?raw=true" />
+  <img width="80%" alt="Hi, I'm Neetika | Full Stack Developer" />
 </p>
 
 <br />
