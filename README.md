@@ -31,7 +31,7 @@ I'm a passionate **Full Stack Developer** at Providence India, building robust w
 ---
 
 ### 📊 GitHub Activity
-| <a href="https://github.com/neetika111"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neetika111&show_icons=true&theme=radical&hide_border=true" alt="Neetika's GitHub stats" /></a> | <a href="https://github.com/neetika111"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetika111&layout=compact&theme=radical&hide_border=true" /></a> |
+|</a> | <a href="https://github.com/neetika111"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetika111&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
